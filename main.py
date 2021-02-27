@@ -18,7 +18,7 @@ def send_email(subject='', body=''):
     smtp_server.close()
 
 
-def get_sleeptime(multiplier=1):
+def get_sleeptime(multiplier=2):
     sleep_time = 0
     sleep_time += (random.randrange(5)) * 60
     sleep_time += random.randrange(60)
