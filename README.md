@@ -3,9 +3,11 @@
 ## Disclaimer
 
 Don't use this tool, it hits an open endpoint and may cause delays for people who are trying to get a vaccine. 
-This is truly for educational purposes only as it's not very helpful. 
-If you were to use it, as you cannot sign up through it. 
-By the time you are notified that there is an appointment, and you jump through the hoops, the spot is likely taken. 
+This is truly for educational purposes only as it's not very helpful. It also was written "quick and dirty," 
+it's far from being production ready. It's a quick tool I wrote to see if I could in an hour.
+
+If you were to use it, 
+by the time you are notified that there is an appointment, and you jump through the hoops, the spot is likely taken. 
 Your best bet is to keep the page open and click each link one at a time.
 
 If this script **was** helpful I'd make it an AWS Lambda function that ran every few minutes.
