@@ -18,7 +18,7 @@ It would have been much more helpful for you to streamline your flow:
 
 1) Fill out the eligability form
 2) Enter a zipcode
-3) They should you the locations available, and timeslot
+3) Show ALL stores in a 50 mile radius that ACTUALLY HAVE an available appointment WITH THE TIMESLOT READY TO BE SELECTED
 4) Select the timeslot and continue
 
 How it is now is barely usable.
